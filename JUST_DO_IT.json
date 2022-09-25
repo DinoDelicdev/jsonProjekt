@@ -1,0 +1,1261 @@
+{
+    "contributors": [
+        {
+            "id": "a59c02af-2fcd-41b1-ad4f-e0ebae08121b",
+            "honorific": null,
+            "firstName": "Dexter",
+            "lastName": "Capricorn",
+            "postNominal": null,
+            "email": "joe11@lineup.ninja",
+            "company": null,
+            "position": null,
+            "phone": null,
+            "twitter": null,
+            "facebook": null,
+            "linkedin": null,
+            "instagram": null,
+            "youtube": null,
+            "bio": null,
+            "bio_HTML": "",
+            "headshotURL": "https://user-content.live.lineup.ninja/team/2db4c228-df00-4733-a8c2-fee0192120ef/ugc/be7e0f72-7460-4c2c-af71-679c5c52b224",
+            "headshot2xURL": "https://user-content.live.lineup.ninja/team/2db4c228-df00-4733-a8c2-fee0192120ef/ugc/d192e727-3a8b-4761-8ece-41205b1e9370",
+            "availability": [
+                {
+                    "startDate": "2021-09-21T08:00:00.000Z",
+                    "endDate": "2021-09-21T16:00:00.000Z"
+                },
+                {
+                    "startDate": "2021-09-22T08:00:00.000Z",
+                    "endDate": "2021-09-22T16:00:00.000Z"
+                },
+                {
+                    "startDate": "2021-09-23T08:00:00.000Z",
+                    "endDate": "2021-09-23T16:00:00.000Z"
+                },
+                {
+                    "startDate": "2021-09-24T08:00:00.000Z",
+                    "endDate": "2021-09-24T16:00:00.000Z"
+                }
+            ],
+            "labels": [],
+            "sessions": [
+                "2b21adaf-61a7-4a76-b8be-a820ecdcaa0e",
+                "0ee83ea2-35fc-4f50-91c9-de7602bbf93b",
+                "e0206eb4-180e-42b7-b430-3940926d5c82",
+                "ddb2ca3e-ef92-4bed-b8a5-cb3b4bb35b75",
+                "f9d7344f-85ba-4339-a5ed-1e2a8cde01b1"
+            ],
+            "sessionJoins": [
+                {
+                    "session": "2b21adaf-61a7-4a76-b8be-a820ecdcaa0e",
+                    "role": null
+                },
+                {
+                    "session": "0ee83ea2-35fc-4f50-91c9-de7602bbf93b",
+                    "role": null
+                },
+                {
+                    "session": "e0206eb4-180e-42b7-b430-3940926d5c82",
+                    "role": null
+                },
+                {
+                    "session": "ddb2ca3e-ef92-4bed-b8a5-cb3b4bb35b75",
+                    "role": null
+                },
+                {
+                    "session": "f9d7344f-85ba-4339-a5ed-1e2a8cde01b1",
+                    "role": null
+                }
+            ],
+            "notes": null,
+            "lastModified": "2022-09-06T17:39:21.850Z",
+            "references": {}
+        },
+        {
+            "id": "3533097a-3a58-40d6-a86f-34c4639b814f",
+            "honorific": null,
+            "firstName": "Sally",
+            "lastName": "McNally",
+            "postNominal": null,
+            "email": "joe13@lineup.ninja",
+            "company": null,
+            "position": null,
+            "phone": null,
+            "twitter": null,
+            "facebook": null,
+            "linkedin": null,
+            "instagram": null,
+            "youtube": null,
+            "bio": null,
+            "bio_HTML": "",
+            "headshotURL": "https://user-content.live.lineup.ninja/team/2db4c228-df00-4733-a8c2-fee0192120ef/ugc/e22a548b-0e0d-43cb-a9a3-807c392e091a",
+            "headshot2xURL": "https://user-content.live.lineup.ninja/team/2db4c228-df00-4733-a8c2-fee0192120ef/ugc/b27a4740-acb0-4fe9-b56f-548083ce1035",
+            "availability": [
+                {
+                    "startDate": "2021-09-21T08:00:00.000Z",
+                    "endDate": "2021-09-21T16:00:00.000Z"
+                },
+                {
+                    "startDate": "2021-09-22T08:00:00.000Z",
+                    "endDate": "2021-09-22T16:00:00.000Z"
+                },
+                {
+                    "startDate": "2021-09-23T08:00:00.000Z",
+                    "endDate": "2021-09-23T16:00:00.000Z"
+                },
+                {
+                    "startDate": "2021-09-24T08:00:00.000Z",
+                    "endDate": "2021-09-24T16:00:00.000Z"
+                }
+            ],
+            "labels": [],
+            "sessions": [
+                "9a2a73cd-d9b7-426c-a51a-73897b5a9993",
+                "bb6402ec-fa84-410a-8e57-23f46c5e3ca4",
+                "f372cc81-85b7-411a-a5ba-bbd3da7922cb",
+                "b35544c5-2b18-4ddd-91bd-4fc257d2c06c",
+                "e22f7275-5cfa-4961-86dd-76281c7adc44"
+            ],
+            "sessionJoins": [
+                {
+                    "session": "9a2a73cd-d9b7-426c-a51a-73897b5a9993",
+                    "role": null
+                },
+                {
+                    "session": "bb6402ec-fa84-410a-8e57-23f46c5e3ca4",
+                    "role": null
+                },
+                {
+                    "session": "f372cc81-85b7-411a-a5ba-bbd3da7922cb",
+                    "role": null
+                },
+                {
+                    "session": "b35544c5-2b18-4ddd-91bd-4fc257d2c06c",
+                    "role": null
+                },
+                {
+                    "session": "e22f7275-5cfa-4961-86dd-76281c7adc44",
+                    "role": null
+                }
+            ],
+            "notes": null,
+            "lastModified": "2022-09-06T17:38:36.930Z",
+            "references": {}
+        },
+        {
+            "id": "d157bfc9-f956-42e6-8781-a745a31a71e6",
+            "honorific": null,
+            "firstName": "Bingo",
+            "lastName": "Wiggins",
+            "postNominal": null,
+            "email": "joe10@lineup.ninja",
+            "company": null,
+            "position": null,
+            "phone": null,
+            "twitter": null,
+            "facebook": null,
+            "linkedin": null,
+            "instagram": null,
+            "youtube": null,
+            "bio": null,
+            "bio_HTML": "",
+            "headshotURL": "https://user-content.live.lineup.ninja/team/2db4c228-df00-4733-a8c2-fee0192120ef/ugc/e4493586-d8d1-484f-b8b0-6238039afef2",
+            "headshot2xURL": "https://user-content.live.lineup.ninja/team/2db4c228-df00-4733-a8c2-fee0192120ef/ugc/9b737145-b575-4ce1-a4cc-1fcde313bd35",
+            "availability": [
+                {
+                    "startDate": "2021-09-21T08:00:00.000Z",
+                    "endDate": "2021-09-21T16:00:00.000Z"
+                },
+                {
+                    "startDate": "2021-09-22T08:00:00.000Z",
+                    "endDate": "2021-09-22T16:00:00.000Z"
+                },
+                {
+                    "startDate": "2021-09-23T08:00:00.000Z",
+                    "endDate": "2021-09-23T16:00:00.000Z"
+                },
+                {
+                    "startDate": "2021-09-24T08:00:00.000Z",
+                    "endDate": "2021-09-24T16:00:00.000Z"
+                }
+            ],
+            "labels": [],
+            "sessions": [
+                "97bbf95b-6572-4916-a55f-aaf2b02bf4ad",
+                "9a2a73cd-d9b7-426c-a51a-73897b5a9993",
+                "84b7c252-cb0e-4eab-8539-8e2b9acdc9cd",
+                "5decf8ef-57f1-4d06-8325-5068629c9b5c",
+                "f9d7344f-85ba-4339-a5ed-1e2a8cde01b1"
+            ],
+            "sessionJoins": [
+                {
+                    "session": "97bbf95b-6572-4916-a55f-aaf2b02bf4ad",
+                    "role": null
+                },
+                {
+                    "session": "9a2a73cd-d9b7-426c-a51a-73897b5a9993",
+                    "role": null
+                },
+                {
+                    "session": "84b7c252-cb0e-4eab-8539-8e2b9acdc9cd",
+                    "role": null
+                },
+                {
+                    "session": "5decf8ef-57f1-4d06-8325-5068629c9b5c",
+                    "role": null
+                },
+                {
+                    "session": "f9d7344f-85ba-4339-a5ed-1e2a8cde01b1",
+                    "role": null
+                }
+            ],
+            "notes": null,
+            "lastModified": "2022-09-06T17:38:10.195Z",
+            "references": {}
+        },
+        {
+            "id": "a12bfcd6-a652-4392-acee-5ea50f25ec2e",
+            "honorific": null,
+            "firstName": "Pops",
+            "lastName": "Foster",
+            "postNominal": null,
+            "email": "joe12@lineup.ninja",
+            "company": null,
+            "position": null,
+            "phone": null,
+            "twitter": null,
+            "facebook": null,
+            "linkedin": null,
+            "instagram": null,
+            "youtube": null,
+            "bio": null,
+            "bio_HTML": "",
+            "headshotURL": "https://user-content.live.lineup.ninja/team/2db4c228-df00-4733-a8c2-fee0192120ef/ugc/2b97ae08-7968-40b1-a9a4-041bbc52392d",
+            "headshot2xURL": "https://user-content.live.lineup.ninja/team/2db4c228-df00-4733-a8c2-fee0192120ef/ugc/96530a84-0d6a-4684-86a2-923868aca216",
+            "availability": [
+                {
+                    "startDate": "2021-09-21T08:00:00.000Z",
+                    "endDate": "2021-09-21T16:00:00.000Z"
+                },
+                {
+                    "startDate": "2021-09-22T08:00:00.000Z",
+                    "endDate": "2021-09-22T16:00:00.000Z"
+                },
+                {
+                    "startDate": "2021-09-23T08:00:00.000Z",
+                    "endDate": "2021-09-23T16:00:00.000Z"
+                },
+                {
+                    "startDate": "2021-09-24T08:00:00.000Z",
+                    "endDate": "2021-09-24T16:00:00.000Z"
+                }
+            ],
+            "labels": [],
+            "sessions": [
+                "0ee83ea2-35fc-4f50-91c9-de7602bbf93b",
+                "9a2a73cd-d9b7-426c-a51a-73897b5a9993",
+                "f511b781-8022-458d-8468-a1470bfc2607",
+                "bb2ad60e-5385-4bad-9f41-3d512fbde8d8",
+                "8173865d-2cd5-4d08-b0b2-956a6d9580ec",
+                "84b7c252-cb0e-4eab-8539-8e2b9acdc9cd"
+            ],
+            "sessionJoins": [
+                {
+                    "session": "0ee83ea2-35fc-4f50-91c9-de7602bbf93b",
+                    "role": null
+                },
+                {
+                    "session": "9a2a73cd-d9b7-426c-a51a-73897b5a9993",
+                    "role": null
+                },
+                {
+                    "session": "f511b781-8022-458d-8468-a1470bfc2607",
+                    "role": null
+                },
+                {
+                    "session": "bb2ad60e-5385-4bad-9f41-3d512fbde8d8",
+                    "role": null
+                },
+                {
+                    "session": "8173865d-2cd5-4d08-b0b2-956a6d9580ec",
+                    "role": null
+                },
+                {
+                    "session": "84b7c252-cb0e-4eab-8539-8e2b9acdc9cd",
+                    "role": null
+                }
+            ],
+            "notes": null,
+            "lastModified": "2022-09-06T17:31:10.153Z",
+            "references": {}
+        },
+        {
+            "id": "976091d6-1892-409d-88f2-be33b12bd601",
+            "honorific": null,
+            "firstName": "Clare",
+            "lastName": "O'Hare",
+            "postNominal": null,
+            "email": null,
+            "company": null,
+            "position": null,
+            "phone": null,
+            "twitter": null,
+            "facebook": null,
+            "linkedin": null,
+            "instagram": null,
+            "youtube": null,
+            "bio": null,
+            "bio_HTML": "",
+            "headshotURL": "https://user-content.live.lineup.ninja/team/2db4c228-df00-4733-a8c2-fee0192120ef/ugc/1f09e3b9-fe5c-4683-944c-600b08c0c237",
+            "headshot2xURL": "https://user-content.live.lineup.ninja/team/2db4c228-df00-4733-a8c2-fee0192120ef/ugc/b82ff70a-f2fd-472a-b38d-7b10120cf048",
+            "availability": [
+                {
+                    "startDate": "2021-09-21T08:00:00.000Z",
+                    "endDate": "2021-09-21T16:00:00.000Z"
+                },
+                {
+                    "startDate": "2021-09-22T08:00:00.000Z",
+                    "endDate": "2021-09-22T16:00:00.000Z"
+                },
+                {
+                    "startDate": "2021-09-23T08:00:00.000Z",
+                    "endDate": "2021-09-23T16:00:00.000Z"
+                },
+                {
+                    "startDate": "2021-09-24T08:00:00.000Z",
+                    "endDate": "2021-09-24T16:00:00.000Z"
+                }
+            ],
+            "labels": [],
+            "sessions": [
+                "9a2a73cd-d9b7-426c-a51a-73897b5a9993",
+                "95e0f4b1-c239-4556-b6fa-df0fdb7cdadf",
+                "f7189f9e-bcaa-4d8b-81d3-6acb19748232"
+            ],
+            "sessionJoins": [
+                {
+                    "session": "9a2a73cd-d9b7-426c-a51a-73897b5a9993",
+                    "role": null
+                },
+                {
+                    "session": "95e0f4b1-c239-4556-b6fa-df0fdb7cdadf",
+                    "role": null
+                },
+                {
+                    "session": "f7189f9e-bcaa-4d8b-81d3-6acb19748232",
+                    "role": null
+                }
+            ],
+            "notes": null,
+            "lastModified": "2022-09-06T17:28:20.374Z",
+            "references": {}
+        }
+    ],
+    "labels": [
+        {
+            "id": "0b28279d-f79e-4013-8dd7-66ca2637d440",
+            "name": "Follow up speaker agreement query",
+            "description": null,
+            "description_HTML": "",
+            "contributors": [],
+            "locations": [],
+            "resources": [],
+            "sessions": [],
+            "tracks": [],
+            "lastModified": "2021-03-25T12:52:11.221Z",
+            "references": {}
+        },
+        {
+            "id": "2761ac6d-3540-466a-babc-644c156caa93",
+            "name": "Registered?",
+            "description": null,
+            "description_HTML": "",
+            "contributors": [],
+            "locations": [],
+            "resources": [],
+            "sessions": [],
+            "tracks": [],
+            "lastModified": "2021-03-25T12:52:52.456Z",
+            "references": {}
+        },
+        {
+            "id": "460dc634-da30-4f2f-bc2e-2e20bfdd35ee",
+            "name": "EMEA",
+            "description": null,
+            "description_HTML": "",
+            "contributors": [],
+            "locations": [],
+            "resources": [],
+            "sessions": [],
+            "tracks": [],
+            "lastModified": "2021-04-27T12:21:52.909Z",
+            "references": {}
+        },
+        {
+            "id": "01cc437d-d861-47e1-9ddf-8544ae8ee738",
+            "name": "Food allergy",
+            "description": null,
+            "description_HTML": "",
+            "contributors": [],
+            "locations": [],
+            "resources": [],
+            "sessions": [],
+            "tracks": [],
+            "lastModified": "2021-03-25T12:52:32.689Z",
+            "references": {}
+        },
+        {
+            "id": "ca56b13d-cbe1-4732-a8c4-5bb396bef4ee",
+            "name": "Disclosure?",
+            "description": null,
+            "description_HTML": "",
+            "contributors": [],
+            "locations": [],
+            "resources": [],
+            "sessions": [],
+            "tracks": [],
+            "lastModified": "2021-03-25T12:53:57.888Z",
+            "references": {}
+        },
+        {
+            "id": "f2bb162c-998c-4168-b14b-bf2f6192b22c",
+            "name": "Intellectual Property Release received?",
+            "description": null,
+            "description_HTML": "",
+            "contributors": [],
+            "locations": [],
+            "resources": [],
+            "sessions": [],
+            "tracks": [],
+            "lastModified": "2021-03-25T12:53:36.409Z",
+            "references": {}
+        }
+    ],
+    "locations": [
+        {
+            "id": "4d4ec8bb-704e-4693-bcec-8946c884faa1",
+            "name": "2 Strategy Theatre",
+            "description": null,
+            "description_HTML": "",
+            "availability": [
+                {
+                    "startDate": "2021-09-22T08:00:00.000Z",
+                    "endDate": "2021-09-22T16:00:00.000Z"
+                },
+                {
+                    "startDate": "2021-09-21T08:00:00.000Z",
+                    "endDate": "2021-09-21T16:00:00.000Z"
+                }
+            ],
+            "labels": [],
+            "resources": [],
+            "sessions": [
+                "080e3bf7-72d1-46cb-b1e8-e2fe4ec092e2",
+                "84b7c252-cb0e-4eab-8539-8e2b9acdc9cd",
+                "5decf8ef-57f1-4d06-8325-5068629c9b5c",
+                "97bbf95b-6572-4916-a55f-aaf2b02bf4ad"
+            ],
+            "tracks": [
+                "97a60c23-050a-4704-84ba-9f1e9f0f5475"
+            ],
+            "lastModified": "2020-06-19T00:51:41.888Z",
+            "references": {}
+        },
+        {
+            "id": "9e617308-4058-49c4-bbd0-278c35bbde3f",
+            "name": "4 Marketing Theatre",
+            "description": null,
+            "description_HTML": "",
+            "availability": [
+                {
+                    "startDate": "2021-09-22T08:00:00.000Z",
+                    "endDate": "2021-09-22T16:00:00.000Z"
+                },
+                {
+                    "startDate": "2021-09-21T08:00:00.000Z",
+                    "endDate": "2021-09-21T16:00:00.000Z"
+                }
+            ],
+            "labels": [],
+            "resources": [],
+            "sessions": [
+                "0fa35d3d-d721-4abf-b480-d628ec929bd3",
+                "ddb2ca3e-ef92-4bed-b8a5-cb3b4bb35b75",
+                "f511b781-8022-458d-8468-a1470bfc2607",
+                "95e0f4b1-c239-4556-b6fa-df0fdb7cdadf"
+            ],
+            "tracks": [
+                "e067d3fa-693c-42aa-8844-09453056080b"
+            ],
+            "lastModified": "2020-06-19T00:51:30.532Z",
+            "references": {}
+        },
+        {
+            "id": "6f913aaf-0e56-47cc-ab1f-cbfa261b68fd",
+            "name": "5 Finance Theatre",
+            "description": null,
+            "description_HTML": "",
+            "availability": [
+                {
+                    "startDate": "2021-09-22T08:00:00.000Z",
+                    "endDate": "2021-09-22T16:00:00.000Z"
+                },
+                {
+                    "startDate": "2021-09-21T08:00:00.000Z",
+                    "endDate": "2021-09-21T16:00:00.000Z"
+                }
+            ],
+            "labels": [],
+            "resources": [],
+            "sessions": [
+                "f7189f9e-bcaa-4d8b-81d3-6acb19748232",
+                "bb2ad60e-5385-4bad-9f41-3d512fbde8d8",
+                "e0206eb4-180e-42b7-b430-3940926d5c82",
+                "bb6402ec-fa84-410a-8e57-23f46c5e3ca4"
+            ],
+            "tracks": [
+                "a2a7e781-b26a-4edb-aee6-b6d8d69cb100"
+            ],
+            "lastModified": "2020-06-19T00:51:30.532Z",
+            "references": {}
+        },
+        {
+            "id": "f8cd93af-75a0-4b34-b224-128265145525",
+            "name": "3 Technology Theatre",
+            "description": null,
+            "description_HTML": "",
+            "availability": [
+                {
+                    "startDate": "2021-09-22T08:00:00.000Z",
+                    "endDate": "2021-09-22T16:00:00.000Z"
+                },
+                {
+                    "startDate": "2021-09-21T08:00:00.000Z",
+                    "endDate": "2021-09-21T16:00:00.000Z"
+                }
+            ],
+            "labels": [],
+            "resources": [],
+            "sessions": [
+                "2b21adaf-61a7-4a76-b8be-a820ecdcaa0e",
+                "6fa4d40b-2d40-4bd6-8449-858f90141e7e",
+                "b35544c5-2b18-4ddd-91bd-4fc257d2c06c",
+                "e22f7275-5cfa-4961-86dd-76281c7adc44"
+            ],
+            "tracks": [
+                "5e7b28de-b17d-42bd-b2f6-60232d4d987e"
+            ],
+            "lastModified": "2020-06-19T09:10:05.286Z",
+            "references": {}
+        },
+        {
+            "id": "d8b0578a-7c3a-4173-a6ed-450530c5223b",
+            "name": "1 Main Theatre",
+            "description": null,
+            "description_HTML": "",
+            "availability": [
+                {
+                    "startDate": "2021-09-22T08:00:00.000Z",
+                    "endDate": "2021-09-22T16:00:00.000Z"
+                },
+                {
+                    "startDate": "2021-09-21T08:00:00.000Z",
+                    "endDate": "2021-09-21T16:00:00.000Z"
+                }
+            ],
+            "labels": [],
+            "resources": [
+                "1980610d-47cf-425c-8d08-d47148c1d165"
+            ],
+            "sessions": [
+                "0ee83ea2-35fc-4f50-91c9-de7602bbf93b",
+                "8173865d-2cd5-4d08-b0b2-956a6d9580ec",
+                "f372cc81-85b7-411a-a5ba-bbd3da7922cb",
+                "9a2a73cd-d9b7-426c-a51a-73897b5a9993"
+            ],
+            "tracks": [
+                "a2a7e781-b26a-4edb-aee6-b6d8d69cb100",
+                "e067d3fa-693c-42aa-8844-09453056080b",
+                "97a60c23-050a-4704-84ba-9f1e9f0f5475",
+                "5e7b28de-b17d-42bd-b2f6-60232d4d987e"
+            ],
+            "lastModified": "2020-06-19T15:15:13.053Z",
+            "references": {}
+        }
+    ],
+    "resources": [
+        {
+            "id": "d530fe4f-2cc7-451c-97bc-43ef4eb36685",
+            "name": "Wi-fi",
+            "description": null,
+            "description_HTML": "",
+            "labels": [],
+            "locations": [],
+            "sessions": [],
+            "lastModified": "2020-06-18T23:47:47.395Z",
+            "references": {}
+        },
+        {
+            "id": "461b0bf0-8586-460b-aaf0-b9b83c845b3b",
+            "name": "Mobile mic",
+            "description": null,
+            "description_HTML": "",
+            "labels": [],
+            "locations": [],
+            "sessions": [],
+            "lastModified": "2020-06-18T23:48:22.550Z",
+            "references": {}
+        },
+        {
+            "id": "ba73ed7d-8931-4550-9850-bcbce0e3f8e7",
+            "name": "Lectern & mic",
+            "description": null,
+            "description_HTML": "",
+            "labels": [],
+            "locations": [],
+            "sessions": [],
+            "lastModified": "2020-06-18T23:48:17.674Z",
+            "references": {}
+        },
+        {
+            "id": "1980610d-47cf-425c-8d08-d47148c1d165",
+            "name": "Headphones",
+            "description": null,
+            "description_HTML": "",
+            "labels": [],
+            "locations": [
+                "d8b0578a-7c3a-4173-a6ed-450530c5223b"
+            ],
+            "sessions": [
+                "9a2a73cd-d9b7-426c-a51a-73897b5a9993"
+            ],
+            "lastModified": "2020-06-19T15:15:48.319Z",
+            "references": {}
+        },
+        {
+            "id": "f7fbd1d7-12f5-49e6-9ca2-b133374a1266",
+            "name": "Projector",
+            "description": null,
+            "description_HTML": "",
+            "labels": [],
+            "locations": [],
+            "sessions": [],
+            "lastModified": "2020-06-18T23:47:41.352Z",
+            "references": {}
+        }
+    ],
+    "sessions": [
+        {
+            "id": "2b21adaf-61a7-4a76-b8be-a820ecdcaa0e",
+            "name": "Sponsored session 2",
+            "code": "ss2",
+            "description": null,
+            "description_HTML": "",
+            "track": "5e7b28de-b17d-42bd-b2f6-60232d4d987e",
+            "color": null,
+            "resources": [],
+            "labels": [],
+            "startDate": "2021-09-21T10:00:00.000Z",
+            "endDate": "2021-09-21T10:30:00.000Z",
+            "duration": 1800000,
+            "contributors": [
+                "a59c02af-2fcd-41b1-ad4f-e0ebae08121b"
+            ],
+            "contributorJoins": [
+                {
+                    "contributor": "a59c02af-2fcd-41b1-ad4f-e0ebae08121b",
+                    "role": null
+                }
+            ],
+            "location": "f8cd93af-75a0-4b34-b224-128265145525",
+            "notes": null,
+            "lastModified": "2022-09-06T17:39:21.850Z",
+            "references": {}
+        },
+        {
+            "id": "080e3bf7-72d1-46cb-b1e8-e2fe4ec092e2",
+            "name": "Sponsored session 5",
+            "code": "ss5",
+            "description": null,
+            "description_HTML": "",
+            "track": null,
+            "color": null,
+            "resources": [],
+            "labels": [],
+            "startDate": "2021-09-22T10:00:00.000Z",
+            "endDate": "2021-09-22T10:30:00.000Z",
+            "duration": 1800000,
+            "contributors": [],
+            "contributorJoins": [],
+            "location": "4d4ec8bb-704e-4693-bcec-8946c884faa1",
+            "notes": null,
+            "lastModified": "2020-06-19T00:52:04.075Z",
+            "references": {}
+        },
+        {
+            "id": "6fa4d40b-2d40-4bd6-8449-858f90141e7e",
+            "name": "Sponsored session 6",
+            "code": "ss6",
+            "description": null,
+            "description_HTML": "",
+            "track": null,
+            "color": null,
+            "resources": [],
+            "labels": [],
+            "startDate": "2021-09-22T10:00:00.000Z",
+            "endDate": "2021-09-22T10:30:00.000Z",
+            "duration": 1800000,
+            "contributors": [],
+            "contributorJoins": [],
+            "location": "f8cd93af-75a0-4b34-b224-128265145525",
+            "notes": null,
+            "lastModified": "2020-06-19T00:52:01.400Z",
+            "references": {}
+        },
+        {
+            "id": "0fa35d3d-d721-4abf-b480-d628ec929bd3",
+            "name": "Sponsored session 7",
+            "code": "ss7",
+            "description": null,
+            "description_HTML": "",
+            "track": null,
+            "color": null,
+            "resources": [],
+            "labels": [],
+            "startDate": "2021-09-22T10:00:00.000Z",
+            "endDate": "2021-09-22T10:30:00.000Z",
+            "duration": 1800000,
+            "contributors": [],
+            "contributorJoins": [],
+            "location": "9e617308-4058-49c4-bbd0-278c35bbde3f",
+            "notes": null,
+            "lastModified": "2020-06-19T00:51:59.618Z",
+            "references": {}
+        },
+        {
+            "id": "f7189f9e-bcaa-4d8b-81d3-6acb19748232",
+            "name": "Sponsored session 8",
+            "code": "ss8",
+            "description": null,
+            "description_HTML": "",
+            "track": null,
+            "color": null,
+            "resources": [],
+            "labels": [],
+            "startDate": "2021-09-22T10:00:00.000Z",
+            "endDate": "2021-09-22T10:30:00.000Z",
+            "duration": 1800000,
+            "contributors": [
+                "976091d6-1892-409d-88f2-be33b12bd601"
+            ],
+            "contributorJoins": [
+                {
+                    "contributor": "976091d6-1892-409d-88f2-be33b12bd601",
+                    "role": null
+                }
+            ],
+            "location": "6f913aaf-0e56-47cc-ab1f-cbfa261b68fd",
+            "notes": null,
+            "lastModified": "2022-09-06T17:28:20.374Z",
+            "references": {}
+        },
+        {
+            "id": "b35544c5-2b18-4ddd-91bd-4fc257d2c06c",
+            "name": "Editorial Session 3",
+            "code": "es3",
+            "description": null,
+            "description_HTML": "",
+            "track": "5e7b28de-b17d-42bd-b2f6-60232d4d987e",
+            "color": null,
+            "resources": [],
+            "labels": [],
+            "startDate": "2021-09-21T09:00:00.000Z",
+            "endDate": "2021-09-21T09:30:00.000Z",
+            "duration": 1800000,
+            "contributors": [
+                "3533097a-3a58-40d6-a86f-34c4639b814f"
+            ],
+            "contributorJoins": [
+                {
+                    "contributor": "3533097a-3a58-40d6-a86f-34c4639b814f",
+                    "role": null
+                }
+            ],
+            "location": "f8cd93af-75a0-4b34-b224-128265145525",
+            "notes": null,
+            "lastModified": "2022-09-06T17:38:36.930Z",
+            "references": {}
+        },
+        {
+            "id": "bb2ad60e-5385-4bad-9f41-3d512fbde8d8",
+            "name": "Editorial Session 7",
+            "code": "es7",
+            "description": null,
+            "description_HTML": "",
+            "track": "a2a7e781-b26a-4edb-aee6-b6d8d69cb100",
+            "color": null,
+            "resources": [],
+            "labels": [],
+            "startDate": "2021-09-21T09:00:00.000Z",
+            "endDate": "2021-09-21T09:30:00.000Z",
+            "duration": 1800000,
+            "contributors": [
+                "a12bfcd6-a652-4392-acee-5ea50f25ec2e"
+            ],
+            "contributorJoins": [
+                {
+                    "contributor": "a12bfcd6-a652-4392-acee-5ea50f25ec2e",
+                    "role": null
+                }
+            ],
+            "location": "6f913aaf-0e56-47cc-ab1f-cbfa261b68fd",
+            "notes": null,
+            "lastModified": "2022-09-06T17:31:10.153Z",
+            "references": {}
+        },
+        {
+            "id": "0ee83ea2-35fc-4f50-91c9-de7602bbf93b",
+            "name": "Keynote 2",
+            "code": "kn2",
+            "description": null,
+            "description_HTML": "",
+            "track": "5e7b28de-b17d-42bd-b2f6-60232d4d987e",
+            "color": null,
+            "resources": [],
+            "labels": [],
+            "startDate": "2021-09-21T15:00:00.000Z",
+            "endDate": "2021-09-21T15:30:00.000Z",
+            "duration": 1800000,
+            "contributors": [
+                "a59c02af-2fcd-41b1-ad4f-e0ebae08121b",
+                "a12bfcd6-a652-4392-acee-5ea50f25ec2e"
+            ],
+            "contributorJoins": [
+                {
+                    "contributor": "a59c02af-2fcd-41b1-ad4f-e0ebae08121b",
+                    "role": null
+                },
+                {
+                    "contributor": "a12bfcd6-a652-4392-acee-5ea50f25ec2e",
+                    "role": null
+                }
+            ],
+            "location": "d8b0578a-7c3a-4173-a6ed-450530c5223b",
+            "notes": null,
+            "lastModified": "2022-09-06T17:39:21.850Z",
+            "references": {}
+        },
+        {
+            "id": "84b7c252-cb0e-4eab-8539-8e2b9acdc9cd",
+            "name": "Editorial Session 2",
+            "code": "es2",
+            "description": null,
+            "description_HTML": "",
+            "track": "97a60c23-050a-4704-84ba-9f1e9f0f5475",
+            "color": null,
+            "resources": [],
+            "labels": [],
+            "startDate": "2021-09-22T09:00:00.000Z",
+            "endDate": "2021-09-22T09:30:00.000Z",
+            "duration": 1800000,
+            "contributors": [
+                "a12bfcd6-a652-4392-acee-5ea50f25ec2e",
+                "d157bfc9-f956-42e6-8781-a745a31a71e6"
+            ],
+            "contributorJoins": [
+                {
+                    "contributor": "a12bfcd6-a652-4392-acee-5ea50f25ec2e",
+                    "role": null
+                },
+                {
+                    "contributor": "d157bfc9-f956-42e6-8781-a745a31a71e6",
+                    "role": null
+                }
+            ],
+            "location": "4d4ec8bb-704e-4693-bcec-8946c884faa1",
+            "notes": null,
+            "lastModified": "2022-09-06T17:38:10.195Z",
+            "references": {}
+        },
+        {
+            "id": "5decf8ef-57f1-4d06-8325-5068629c9b5c",
+            "name": "Editorial Session 1",
+            "code": "es1",
+            "description": null,
+            "description_HTML": "",
+            "track": "97a60c23-050a-4704-84ba-9f1e9f0f5475",
+            "color": null,
+            "resources": [],
+            "labels": [],
+            "startDate": "2021-09-21T09:00:00.000Z",
+            "endDate": "2021-09-21T09:30:00.000Z",
+            "duration": 1800000,
+            "contributors": [
+                "d157bfc9-f956-42e6-8781-a745a31a71e6"
+            ],
+            "contributorJoins": [
+                {
+                    "contributor": "d157bfc9-f956-42e6-8781-a745a31a71e6",
+                    "role": null
+                }
+            ],
+            "location": "4d4ec8bb-704e-4693-bcec-8946c884faa1",
+            "notes": null,
+            "lastModified": "2022-09-06T17:38:10.195Z",
+            "references": {}
+        },
+        {
+            "id": "e22f7275-5cfa-4961-86dd-76281c7adc44",
+            "name": "Editorial Session 4",
+            "code": "es4",
+            "description": null,
+            "description_HTML": "",
+            "track": "5e7b28de-b17d-42bd-b2f6-60232d4d987e",
+            "color": null,
+            "resources": [],
+            "labels": [],
+            "startDate": "2021-09-22T09:00:00.000Z",
+            "endDate": "2021-09-22T09:30:00.000Z",
+            "duration": 1800000,
+            "contributors": [
+                "3533097a-3a58-40d6-a86f-34c4639b814f"
+            ],
+            "contributorJoins": [
+                {
+                    "contributor": "3533097a-3a58-40d6-a86f-34c4639b814f",
+                    "role": null
+                }
+            ],
+            "location": "f8cd93af-75a0-4b34-b224-128265145525",
+            "notes": null,
+            "lastModified": "2022-09-06T17:38:36.930Z",
+            "references": {}
+        },
+        {
+            "id": "ddb2ca3e-ef92-4bed-b8a5-cb3b4bb35b75",
+            "name": "Editorial Session 5",
+            "code": "es5",
+            "description": null,
+            "description_HTML": "",
+            "track": "e067d3fa-693c-42aa-8844-09453056080b",
+            "color": null,
+            "resources": [],
+            "labels": [],
+            "startDate": "2021-09-21T09:00:00.000Z",
+            "endDate": "2021-09-21T09:30:00.000Z",
+            "duration": 1800000,
+            "contributors": [
+                "a59c02af-2fcd-41b1-ad4f-e0ebae08121b"
+            ],
+            "contributorJoins": [
+                {
+                    "contributor": "a59c02af-2fcd-41b1-ad4f-e0ebae08121b",
+                    "role": null
+                }
+            ],
+            "location": "9e617308-4058-49c4-bbd0-278c35bbde3f",
+            "notes": null,
+            "lastModified": "2022-09-06T17:39:21.850Z",
+            "references": {}
+        },
+        {
+            "id": "e0206eb4-180e-42b7-b430-3940926d5c82",
+            "name": "Editorial Session 8",
+            "code": "es8",
+            "description": null,
+            "description_HTML": "",
+            "track": "a2a7e781-b26a-4edb-aee6-b6d8d69cb100",
+            "color": null,
+            "resources": [],
+            "labels": [],
+            "startDate": "2021-09-22T09:00:00.000Z",
+            "endDate": "2021-09-22T09:30:00.000Z",
+            "duration": 1800000,
+            "contributors": [
+                "a59c02af-2fcd-41b1-ad4f-e0ebae08121b"
+            ],
+            "contributorJoins": [
+                {
+                    "contributor": "a59c02af-2fcd-41b1-ad4f-e0ebae08121b",
+                    "role": null
+                }
+            ],
+            "location": "6f913aaf-0e56-47cc-ab1f-cbfa261b68fd",
+            "notes": null,
+            "lastModified": "2022-09-06T17:39:21.850Z",
+            "references": {}
+        },
+        {
+            "id": "8173865d-2cd5-4d08-b0b2-956a6d9580ec",
+            "name": "keynote 3",
+            "code": "kn3",
+            "description": null,
+            "description_HTML": "",
+            "track": "e067d3fa-693c-42aa-8844-09453056080b",
+            "color": null,
+            "resources": [],
+            "labels": [],
+            "startDate": "2021-09-22T11:00:00.000Z",
+            "endDate": "2021-09-22T11:30:00.000Z",
+            "duration": 1800000,
+            "contributors": [
+                "a12bfcd6-a652-4392-acee-5ea50f25ec2e"
+            ],
+            "contributorJoins": [
+                {
+                    "contributor": "a12bfcd6-a652-4392-acee-5ea50f25ec2e",
+                    "role": null
+                }
+            ],
+            "location": "d8b0578a-7c3a-4173-a6ed-450530c5223b",
+            "notes": null,
+            "lastModified": "2022-09-06T17:31:10.153Z",
+            "references": {}
+        },
+        {
+            "id": "f372cc81-85b7-411a-a5ba-bbd3da7922cb",
+            "name": "keynote 4",
+            "code": "kn4",
+            "description": null,
+            "description_HTML": "",
+            "track": "a2a7e781-b26a-4edb-aee6-b6d8d69cb100",
+            "color": null,
+            "resources": [],
+            "labels": [],
+            "startDate": "2021-09-22T15:00:00.000Z",
+            "endDate": "2021-09-22T15:30:00.000Z",
+            "duration": 1800000,
+            "contributors": [
+                "3533097a-3a58-40d6-a86f-34c4639b814f"
+            ],
+            "contributorJoins": [
+                {
+                    "contributor": "3533097a-3a58-40d6-a86f-34c4639b814f",
+                    "role": null
+                }
+            ],
+            "location": "d8b0578a-7c3a-4173-a6ed-450530c5223b",
+            "notes": null,
+            "lastModified": "2022-09-06T17:38:36.930Z",
+            "references": {}
+        },
+        {
+            "id": "f511b781-8022-458d-8468-a1470bfc2607",
+            "name": "Sponsored session 3",
+            "code": "ss3",
+            "description": null,
+            "description_HTML": "",
+            "track": "e067d3fa-693c-42aa-8844-09453056080b",
+            "color": null,
+            "resources": [],
+            "labels": [],
+            "startDate": "2021-09-21T10:00:00.000Z",
+            "endDate": "2021-09-21T10:30:00.000Z",
+            "duration": 1800000,
+            "contributors": [
+                "a12bfcd6-a652-4392-acee-5ea50f25ec2e"
+            ],
+            "contributorJoins": [
+                {
+                    "contributor": "a12bfcd6-a652-4392-acee-5ea50f25ec2e",
+                    "role": null
+                }
+            ],
+            "location": "9e617308-4058-49c4-bbd0-278c35bbde3f",
+            "notes": null,
+            "lastModified": "2022-09-06T17:31:10.153Z",
+            "references": {}
+        },
+        {
+            "id": "97bbf95b-6572-4916-a55f-aaf2b02bf4ad",
+            "name": "Sponsored session 1",
+            "code": "ss1",
+            "description": null,
+            "description_HTML": "",
+            "track": "97a60c23-050a-4704-84ba-9f1e9f0f5475",
+            "color": null,
+            "resources": [],
+            "labels": [],
+            "startDate": "2021-09-21T10:00:00.000Z",
+            "endDate": "2021-09-21T10:30:00.000Z",
+            "duration": 1800000,
+            "contributors": [
+                "d157bfc9-f956-42e6-8781-a745a31a71e6"
+            ],
+            "contributorJoins": [
+                {
+                    "contributor": "d157bfc9-f956-42e6-8781-a745a31a71e6",
+                    "role": null
+                }
+            ],
+            "location": "4d4ec8bb-704e-4693-bcec-8946c884faa1",
+            "notes": null,
+            "lastModified": "2022-09-06T17:38:10.195Z",
+            "references": {}
+        },
+        {
+            "id": "bb6402ec-fa84-410a-8e57-23f46c5e3ca4",
+            "name": "Sponsored session 4",
+            "code": "ss4",
+            "description": null,
+            "description_HTML": "",
+            "track": "a2a7e781-b26a-4edb-aee6-b6d8d69cb100",
+            "color": null,
+            "resources": [],
+            "labels": [],
+            "startDate": "2021-09-21T10:00:00.000Z",
+            "endDate": "2021-09-21T10:30:00.000Z",
+            "duration": 1800000,
+            "contributors": [
+                "3533097a-3a58-40d6-a86f-34c4639b814f"
+            ],
+            "contributorJoins": [
+                {
+                    "contributor": "3533097a-3a58-40d6-a86f-34c4639b814f",
+                    "role": null
+                }
+            ],
+            "location": "6f913aaf-0e56-47cc-ab1f-cbfa261b68fd",
+            "notes": null,
+            "lastModified": "2022-09-06T17:38:36.930Z",
+            "references": {}
+        },
+        {
+            "id": "9a2a73cd-d9b7-426c-a51a-73897b5a9993",
+            "name": "Keynote 1",
+            "code": "kn1",
+            "description": null,
+            "description_HTML": "",
+            "track": "97a60c23-050a-4704-84ba-9f1e9f0f5475",
+            "color": null,
+            "resources": [
+                "1980610d-47cf-425c-8d08-d47148c1d165"
+            ],
+            "labels": [],
+            "startDate": "2021-09-21T11:00:00.000Z",
+            "endDate": "2021-09-21T11:30:00.000Z",
+            "duration": 1800000,
+            "contributors": [
+                "d157bfc9-f956-42e6-8781-a745a31a71e6",
+                "a12bfcd6-a652-4392-acee-5ea50f25ec2e",
+                "3533097a-3a58-40d6-a86f-34c4639b814f",
+                "976091d6-1892-409d-88f2-be33b12bd601"
+            ],
+            "contributorJoins": [
+                {
+                    "contributor": "d157bfc9-f956-42e6-8781-a745a31a71e6",
+                    "role": null
+                },
+                {
+                    "contributor": "a12bfcd6-a652-4392-acee-5ea50f25ec2e",
+                    "role": null
+                },
+                {
+                    "contributor": "3533097a-3a58-40d6-a86f-34c4639b814f",
+                    "role": null
+                },
+                {
+                    "contributor": "976091d6-1892-409d-88f2-be33b12bd601",
+                    "role": null
+                }
+            ],
+            "location": "d8b0578a-7c3a-4173-a6ed-450530c5223b",
+            "notes": null,
+            "lastModified": "2022-09-06T17:38:36.930Z",
+            "references": {}
+        },
+        {
+            "id": "95e0f4b1-c239-4556-b6fa-df0fdb7cdadf",
+            "name": "Editorial Session 6",
+            "code": "es6",
+            "description": null,
+            "description_HTML": "",
+            "track": "e067d3fa-693c-42aa-8844-09453056080b",
+            "color": null,
+            "resources": [],
+            "labels": [],
+            "startDate": "2021-09-22T09:00:00.000Z",
+            "endDate": "2021-09-22T09:30:00.000Z",
+            "duration": 1800000,
+            "contributors": [
+                "976091d6-1892-409d-88f2-be33b12bd601"
+            ],
+            "contributorJoins": [
+                {
+                    "contributor": "976091d6-1892-409d-88f2-be33b12bd601",
+                    "role": null
+                }
+            ],
+            "location": "9e617308-4058-49c4-bbd0-278c35bbde3f",
+            "notes": null,
+            "lastModified": "2022-09-06T17:28:20.374Z",
+            "references": {}
+        }
+    ],
+    "tracks": [
+        {
+            "id": "5e7b28de-b17d-42bd-b2f6-60232d4d987e",
+            "name": "Technology",
+            "description": null,
+            "description_HTML": "",
+            "color": null,
+            "labels": [],
+            "sessions": [
+                "2b21adaf-61a7-4a76-b8be-a820ecdcaa0e",
+                "b35544c5-2b18-4ddd-91bd-4fc257d2c06c",
+                "0ee83ea2-35fc-4f50-91c9-de7602bbf93b",
+                "e22f7275-5cfa-4961-86dd-76281c7adc44"
+            ],
+            "lastModified": "2022-09-06T16:46:01.569Z",
+            "references": {}
+        },
+        {
+            "id": "97a60c23-050a-4704-84ba-9f1e9f0f5475",
+            "name": "Strategy",
+            "description": null,
+            "description_HTML": "",
+            "color": null,
+            "labels": [],
+            "sessions": [
+                "84b7c252-cb0e-4eab-8539-8e2b9acdc9cd",
+                "5decf8ef-57f1-4d06-8325-5068629c9b5c",
+                "97bbf95b-6572-4916-a55f-aaf2b02bf4ad",
+                "9a2a73cd-d9b7-426c-a51a-73897b5a9993"
+            ],
+            "lastModified": "2022-09-06T16:45:53.500Z",
+            "references": {}
+        },
+        {
+            "id": "e067d3fa-693c-42aa-8844-09453056080b",
+            "name": "Marketing",
+            "description": null,
+            "description_HTML": "",
+            "color": null,
+            "labels": [],
+            "sessions": [
+                "ddb2ca3e-ef92-4bed-b8a5-cb3b4bb35b75",
+                "8173865d-2cd5-4d08-b0b2-956a6d9580ec",
+                "f511b781-8022-458d-8468-a1470bfc2607",
+                "95e0f4b1-c239-4556-b6fa-df0fdb7cdadf"
+            ],
+            "lastModified": "2022-09-06T16:46:13.851Z",
+            "references": {}
+        },
+        {
+            "id": "a2a7e781-b26a-4edb-aee6-b6d8d69cb100",
+            "name": "Finance",
+            "description": null,
+            "description_HTML": "",
+            "color": null,
+            "labels": [],
+            "sessions": [
+                "bb2ad60e-5385-4bad-9f41-3d512fbde8d8",
+                "e0206eb4-180e-42b7-b430-3940926d5c82",
+                "f372cc81-85b7-411a-a5ba-bbd3da7922cb",
+                "bb6402ec-fa84-410a-8e57-23f46c5e3ca4"
+            ],
+            "lastModified": "2022-09-06T16:46:19.720Z",
+            "references": {}
+        }
+    ]
+}
